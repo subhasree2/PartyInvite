@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Subhasree\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\Subhasree\\PartyInvite\\PartyInvites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Subhasree\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\Subhasree\\PartyInvite\\PartyInvites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Subhasree\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\Subhasree\\PartyInvite\\PartyInvites.csproj",
         "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\Subhasree\\PartyInvites\\PartyInvites.csproj",
+        "projectPath": "C:\\Users\\Subhasree\\PartyInvite\\PartyInvites.csproj",
         "packagesPath": "C:\\Users\\Subhasree\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Subhasree\\PartyInvites\\obj\\",
+        "outputPath": "C:\\Users\\Subhasree\\PartyInvite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Subhasree\\AppData\\Roaming\\NuGet\\NuGet.Config",
